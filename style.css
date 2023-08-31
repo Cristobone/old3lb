@@ -1,0 +1,23 @@
+header {
+    background-color: #baff3b;
+    height: 50px;
+}
+
+html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #001f3f; /* Темносиній колір */
+    color: white;
+    font-family: Arial;
+    height: 100%;
+}
+
+#conteiner {
+    display: flex;
+    flex-direction: raw;
+}
